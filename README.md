@@ -1,2 +1,2 @@
 # PR_prac
-Individual Pull Request practicing
+Individual Pull Request Review
